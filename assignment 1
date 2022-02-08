@@ -1,0 +1,13 @@
+# program on comparision operators
+a=int(15)
+b=int(10)
+a<b
+print('true')
+a>b
+print('false')
+a>=b
+print('false')
+a<=b
+print('false')
+a!=b
+print('true')
